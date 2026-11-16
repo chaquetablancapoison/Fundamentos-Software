@@ -3,7 +3,8 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("Hello, world");
+        Console.WriteLine("¡Hola, Mundo!");
+        Console.WriteLine("Bienvenido a mi primera práctica de Git");
     }
-    
+
 }
